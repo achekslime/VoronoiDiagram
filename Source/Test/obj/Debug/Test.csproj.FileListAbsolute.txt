@@ -1,0 +1,10 @@
+/Users/achek/Projects/CourseWork/Test/bin/Debug/Test.exe
+/Users/achek/Projects/CourseWork/Test/bin/Debug/Test.pdb
+/Users/achek/Projects/CourseWork/Test/obj/Debug/Test.csprojAssemblyReference.cache
+/Users/achek/Projects/CourseWork/Test/obj/Debug/Test.exe
+/Users/achek/Projects/CourseWork/Test/obj/Debug/Test.pdb
+/Users/achek/Projects/CourseWork/Test/bin/Debug/PriorityQueue.dll
+/Users/achek/Projects/CourseWork/Test/bin/Debug/PriorityQueue.pdb
+/Users/achek/Projects/CourseWork/Test/obj/Debug/Test.csproj.CopyComplete
+/Users/achek/Projects/CourseWork/Test/bin/Debug/VoronoiDiagramLib.dll
+/Users/achek/Projects/CourseWork/Test/bin/Debug/VoronoiDiagramLib.pdb
